@@ -5,5 +5,3 @@ Fetch 테스트
 
 마스터브랜치 작업
 RebaseTest브랜치에서 작업
-
-RebaseTest브랜치에서 수정작업을 하였습니다. 
